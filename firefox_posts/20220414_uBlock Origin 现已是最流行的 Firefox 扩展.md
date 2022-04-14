@@ -1,4 +1,4 @@
-很长一段时间，Adblock Plus 保持着人气之冠，而现在，uBlock Origin 已然超过它，成为用户数量最多的扩展。  
+[原文](https://www.ghacks.net/2022/03/11/ublock-origin-is-now-the-most-popular-firefox-add-on/)，很长一段时间，Adblock Plus 保持着人气之冠，而现在，uBlock Origin 已然超过它，成为用户数量最多的扩展。  
 据 Mozilla 报告，uBlock Origin 用户数现已超过 550 万，而 Adblock Plus 在撰写本文时数量为 547 万，以此趋势，他们间的差距将越来越大。
 
 ![1.png](https://s2.loli.net/2022/04/14/8OUExfprK3JieGA.png)
