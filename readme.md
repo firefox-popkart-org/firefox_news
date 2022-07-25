@@ -1,8 +1,5 @@
-# Firefox 信仰充值中心
+# Firefox_news
 
-本仓库主要是 Firefox 及其衍生的更新日志本地化。
+Firefox 及其衍生的正式版用户特性介绍 by [popkart.org](https://bbs.popkart.org/)
 
-此外，我们也做 [ACGN 等方面的内容](https://github.com/popkart2/firefox_faith_recharge_center_acgn)，[计划和愿景](https://bbs.popkart.org/?thread-93.htm)。  
-欢迎扫描下面二维码加入组织，共同捍卫一个开放自由的互联网！
-
-![firefox_信仰充值中心_andro_it_合并二维码.png](https://s2.loli.net/2022/02/02/ZQoeYtu7kl3i58C.png)
+![firefox_logo_3.jpg](https://s2.loli.net/2022/05/02/s4pUX1SYOwmCz6A.jpg)
